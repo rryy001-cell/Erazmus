@@ -64,8 +64,8 @@ footer p {
     color: white;
 }
 .image-brussels{
-    width: 80%;
-    height: 40%;
+    width: 40%;
+    height: 60%;
     margin-top: 10px;
     margin-bottom: 10px;
     display: block;
@@ -74,7 +74,7 @@ footer p {
  
 }
 .image-school{
-    width: 80%;
+    width: 60%;
     height: auto;
     margin-top: 10px;
     margin-bottom: 10px;
