@@ -50,6 +50,7 @@ footer p {
 .image {
     width: 60%;
     height: auto;
+    border-radius: 12px;
     margin-top: 10px;
     margin-bottom: 10px;
 }
@@ -66,6 +67,7 @@ footer p {
 .image-brussels{
     width: 20%;
     height: auto;
+    border-radius: 12px;
     margin-top: 10px;
     margin-bottom: 10px;
     display: block;
@@ -76,6 +78,7 @@ footer p {
 .image-school{
     width: 40%;
     height: auto;
+    border-radius: 12px;
     margin-top: 10px;
     margin-bottom: 10px;
     display: block;
