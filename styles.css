@@ -63,21 +63,17 @@ footer p {
     font-weight: bold;
     color: white;
 }
-.image-brussels{
-    margin-top: 10px;
-    margin-bottom: 10px;
-    margin-left: auto;
-    margin-right: auto;
-    display: block;
-    width: 40px;
-    height: 70px;
-}
-.image-school {
-    margin-top: 10px;
-    margin-bottom: 10px;
-    margin-left: auto;
-    margin-right: auto;
-    display: block;
-    width: 40px;
+.image-image brussels{
+    width: 60%;
     height: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+ 
+}
+.image-school{
+    width: 60%;
+    height: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    display: block;
 }
