@@ -47,6 +47,19 @@ footer p {
     
 }
 
-        
+.image {
+    width: 80%;
+    height: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.highlight {
+    background-color: rgb(123, 4, 4);
+    font-weight: bold;
+}
 
-    
+.highlight2 {
+    background-color: rgb(123, 4, 18);
+    font-weight: bold;
+    color: white;
+}
