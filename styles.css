@@ -69,6 +69,8 @@ footer p {
     margin-top: 10px;
     margin-bottom: 10px;
     display: block;
+    margin-left: auto;
+    margin-right: auto;
  
 }
 .image-school{
@@ -77,4 +79,6 @@ footer p {
     margin-top: 10px;
     margin-bottom: 10px;
     display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
